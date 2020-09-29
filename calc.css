@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(to right, yellow , blue);
+}
+button {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    border-radius: 10%;
+}
+div {
+    border: 3px solid black;
+    width: 179px;
+    padding: 2px;
+    
+    margin-left: calc(50vw - 89.5px);
+    margin-top: calc(50vh - 108.5px);
+}
+input{
+    width: 172px;
+    padding: 10px;
+    margin-left: 3px;
+    
+}
+input:disabled {
+    background-color: white;
+}
